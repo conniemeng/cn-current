@@ -1,0 +1,1 @@
+[{"id":"121","level":"2","parent_id":"1238","subhead":"平台设置,商品管理,存储空间,商家管理,订单管理,售后管理,金融管理,数据分析,采购设置,","tableName":"cms_content","title":"平台管理","url":"/help/jcmall_platform.html"},{"id":"1279","level":"2","parent_id":"1238","tableName":"cms_content","title":"微信登录配置","url":"/help/wxdlpz1279.html"}]
