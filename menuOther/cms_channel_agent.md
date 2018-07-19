@@ -1,0 +1,1 @@
+[{"channel_agent":"京东云","id":"2","tableName":"cms_channel_agent"},{"channel_agent":"政务云","id":"3","tableName":"cms_channel_agent"},{"channel_agent":"电商","id":"4","tableName":"cms_channel_agent"},{"channel_agent":"大数据","id":"5","tableName":"cms_channel_agent"},{"channel_agent":"京  东  云","id":"7","tableName":"cms_channel_agent"}]
